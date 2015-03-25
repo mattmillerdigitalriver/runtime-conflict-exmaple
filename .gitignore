@@ -12,3 +12,6 @@ RuntimeConflictDemo/.idea
 RuntimeConflictDemo/RuntimeConflictDemo.iml
 RuntimeConflictDemo/target
 CarService/car-service.iml
+AnimalPrinter/animal-printer.iml
+CarPrinter/car-printer.iml
+RuntimeConflictDemo/runtime-conflict-demo.iml
